@@ -7,7 +7,7 @@ const routes=[{
 },{
     path:'/',
     name:'index',
-    component:()=>import('@/Home/Index.vue'),
+    component:()=>import('@/Manage/Index.vue'),
 },{
     path:'/ManageIndex',
     name:'ManageIndex',
